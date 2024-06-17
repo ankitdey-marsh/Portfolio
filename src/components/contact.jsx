@@ -42,7 +42,7 @@ const Contact = () => {
         <div className='flex justify-center relative lg:-top-8'>
             <div className='p-4 border md:w-96 md:min-h-96 rounded-lg md:pt-5 md:pr-5 md:pl-5 md:pb-2 bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px] bg-[white]'>
                 <h1 className='md:font-medium md:text-2xl font-medium text-xl'>Send me a mail.</h1>
-                <h1 className='text-sm text-[#64748be2] md:mt-1'>Once form is submit you will redirect to home page.</h1>
+                <h1 className='text-sm text-[#64748be2] md:mt-1'>Once form is submit the fields will be reset.</h1>
                 <form className='md:mt-0 mt-4' onSubmit={handleSubmit}>
                     <h1 className='font-medium text-sm md:mt-3 md:mb-1.5 mb-2'>Name</h1>
                     <input placeholder="Enter your name" required type='text' className='border md:w-full rounded-lg md:h-10 md:pl-4 md:mb-0 mb-1 w-full px-3 h-8' value={name} onChange={(e) => setName(e.target.value)}/>
