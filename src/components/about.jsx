@@ -15,7 +15,7 @@ const about = () => {
                 <hr className='md:w-44 w-32 md:mb-0 mb-4 h-3 mt-3 md:ml-0 lg:mt-4 bg-gradient-to-r from-[#c580f0ed] to-[#c580f0c8]'></hr>
             </div>
             <div className='md:w-12/12 md:mt-10 '>
-                <h1 className='font-poppins text-justify'>I am a DevOps Developer from Kolkata, India. Currently with a year of experience, I put my time learning essentials from other fields as well. I am very comfortable with adapting to new software and new technologies. With a strong passion for innovation and a keen eye for detail, I'm confident in my ability to collaborate with cross-functional teams, drive projects forward, and deliver high-quality results. </h1>
+                <h1 className='font-poppins text-justify'>I am a Software Developer from Kolkata, India. Currently with a year of experience, I put my time learning essentials from other fields as well. I am very comfortable with adapting to new software and new technologies. With a strong passion for innovation and a keen eye for detail, I'm confident in my ability to collaborate with cross-functional teams, drive projects forward, and deliver high-quality results. </h1>
             </div>
         </div>
         <div className='relative md:-left-0 -left-28 md:pt-4 pt-12'>
