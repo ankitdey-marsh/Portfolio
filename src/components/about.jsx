@@ -11,7 +11,7 @@ const about = () => {
                 <span className='text-white font-poppins text-xs md:text-xs font-normal md:font-medium relative md:-left-0 -left-1 md:-top-0 -top-1 md:pb-0 pb-2 md:pt-0'>About me</span>
             </div>
             <div className='md:pt-5'>
-                <h1 className='md:text-5xl text-4xl md:font-medium font-semibold'>DevOps <br className='md:hidden'/><span className='bg-gradient-to-r from-[#833be7cb] to-[#5521c5] bg-clip-text text-transparent md:w-48'>Developer </span><br/> <span className='md:text-4xl text-3xl font-poppins font-normal md:font-medium'>Based In India.</span></h1>
+                <h1 className='md:text-5xl text-4xl md:font-medium font-semibold'>Software <br className='md:hidden'/><span className='bg-gradient-to-r from-[#833be7cb] to-[#5521c5] bg-clip-text text-transparent md:w-48'>Developer </span><br/> <span className='md:text-4xl text-3xl font-poppins font-normal md:font-medium'>Based In India.</span></h1>
                 <hr className='md:w-44 w-32 md:mb-0 mb-4 h-3 mt-3 md:ml-0 lg:mt-4 bg-gradient-to-r from-[#c580f0ed] to-[#c580f0c8]'></hr>
             </div>
             <div className='md:w-12/12 md:mt-10 '>
