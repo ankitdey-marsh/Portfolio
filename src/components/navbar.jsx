@@ -10,7 +10,7 @@ const Navbar = () => {
     }
   return (
 
-      <div className=' select-none md:flex md:justify-center justify-end md:w-full md:h-12 absolute md:mt-8 md:mr-0 mt-6 md:pt-0 md:pr-0 pr-3'>
+      <div className='select-none md:flex md:justify-center justify-end md:w-full md:h-12 absolute md:mt-8 md:mr-0 mt-6 md:pt-0 md:pr-0 pr-3'>
         <div className='md:h-12 px-2 border hidden  md:px-4 md:flex border-black absolute rounded-full justify-evenly md:space-x-8 space-x-4 hover:scale-110 transition-all duration-300 z-20'>
             <a href='/' className='mt-1 w-9 h-9 pl-1 rounded-full hover:border-spacing-0 hover:scale-110 hover:translate-y-px hover:border-black hover:bg-[#c580f03c] transition-all duration-500'>
                 <LuHome size={24} className='relative top-1.5 left-0.5'/>
